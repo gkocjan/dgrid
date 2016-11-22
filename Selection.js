@@ -5,7 +5,7 @@ define([
 	'dojo/has',
 	'dojo/aspect',
 	'./List',
-	'dojo/has!touch?./util/touch',
+	'./util/touch',
 	'dojo/query',
 	'dojo/_base/sniff',
 	'dojo/dom' // for has('css-user-select') in 1.8.2+
